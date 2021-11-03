@@ -1,0 +1,26 @@
+body {
+    background-color:#eee;
+    margin-bottom: 70px;
+}
+
+a, a:hover {
+    text-decoration: none !important;
+    color: inherit;
+}
+
+button {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.header {
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-color: rgb(229,229,229);
+    padding:0;
+}
+
+.header-margin {
+    width: 100%;
+    margin-top: 64px
+}
